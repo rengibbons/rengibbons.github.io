@@ -1,32 +1,32 @@
 # Site settings
-title: Eric Gibbons
-subtitle: Signal processing engineer
-email: eric.gibbons (at) utah (dot) edu
+title: Ren Gibbons
+subtitle: 
+email: gibbons.ren (at) gmail (dot) com
 description: MY PERSONAL WEBPAGE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author: Eric Gibbons
-street_address: 729 Arapeen Drive
-city: Salt Lake City
-state: UT
-zip_code: 84108-1217
+author: Ren Gibbons
+street_address: 
+city: Palo Alto
+state: CA
+zip_code: 94306
 country: United States of America
 phone:
 
 # Social settings
 500px_url:
-facebook_url: http://facebook.com/ekgibbons
-github_url: https://github.com/ekgibbons
+facebook_url:
+github_url: https://github.com/rengibbons
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com/gibbonsek
-linkedin_url: https://www.linkedin.com/in/ekgibbons
+instagram_url: https://instagram.com/rengibbons
+linkedin_url: http://www.linkedin.com/in/ren-gibbons-489890142
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/ekgibbons
+twitter_url:
 
 # Google Analytics
-google_analytics: UA-106731083-1 
+google_analytics:
 
 # Build settings
 markdown: kramdown

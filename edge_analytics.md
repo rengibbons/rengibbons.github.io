@@ -8,7 +8,7 @@ title: Edge Analytics
 <div class="box alt">
   <div class="row 50% uniform">
     <div class="4u"><span class="image fit"><img src="assets/images/rg_fes_cycle.png" alt="" /></span></div>
-    <div class="4u"><span class="image fit"><img src="assets/images/rg_kin_emg.png" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/rg_kin_emg.png" alt="" /></span></div>
     <!--
     <div class="4u$"><span class="image fit"><img src="assets/images/" alt="" /></span></div>
     -->

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-image: assets/images/rg_headshot.jpg
 ---
 
 <div class="box alt">

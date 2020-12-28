@@ -1,15 +1,15 @@
 # Site settings
 title: Ren Gibbons
-subtitle: 
+subtitle:
 email: gibbons.ren (at) gmail (dot) com
 description: MY PERSONAL WEBPAGE
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Ren Gibbons
-street_address: 
-city: Palo Alto
+street_address:
+city: Oakland
 state: CA
-zip_code: 94306
+zip_code: 94618
 country: United States of America
 phone:
 

@@ -37,6 +37,6 @@ title: Woodworking
   <div class="row 50% uniform">
     <div class="4u"><span class="image fit"><img src="assets/images/rg_ww4.png" alt="" /></span></div>
     <div class="4u"><span class="image fit"><img src="assets/images/rg_ww5.JPG" alt="" /></span></div>
-    <div class="4u$"><span class="image fit"><img src="assets/images/rg_ww8.JPG" alt="" /></span></div>
+    <div class="4u$"><span class="image fit"><img src="assets/images/rg_ww8.png" alt="" /></span></div>
   </div>
 </div>

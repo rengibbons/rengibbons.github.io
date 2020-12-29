@@ -3,7 +3,7 @@ layout: page
 title: Edge Analytics
 ---
 
-<p>I joined <a href="edgeanalytics.io">Edge Analytics</a> February 2020. Edge is a boutique data science consulting company. As a small group of data scientists and engineers, we bring years of experience in delivering elegant solutions to complex, ambiguous problems. We help our partners turn ideas into reality.</p>
+<p>I joined <a href="http://edgeanalytics.io">Edge Analytics</a> February 2020. Edge is a boutique data science consulting company. As a small group of data scientists and engineers, we bring years of experience in delivering elegant solutions to complex, ambiguous problems. We help our partners turn ideas into reality.</p>
 
 <span class="image fit"><img src="assets/images/rg_fes_cycling.png" alt="" /></span>
 

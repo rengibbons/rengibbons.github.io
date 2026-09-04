@@ -40,24 +40,3 @@ layout: default
 <!-- </section> -->
 
 
-
-<!-- Section -->
-<section>
-
-  <header class="major">
-    <h2><a id="target_about">About Me</a></h2>
-  </header>
-
-<!--
-  <div class="posts">
-    <article>
-      <a href="{{ 'about_me.html' | absolute_url }}" class="image"><img src="assets/images/death_hollow_1.png" alt="" /></a>
-      <h3>About Me</h3>
-      <p>I am graduate student at Stanford University. I am interested in renewable energy.</p>
-      <ul class="actions">
-	<li><a href="{{ 'about_me.html' | absolute_url }}" class="button">More</a></li>
-      </ul>
-    </article>
-  </div>
--->
-</section>

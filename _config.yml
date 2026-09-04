@@ -19,7 +19,7 @@ facebook_url:
 github_url: https://github.com/rengibbons
 gitlab_url:
 googleplus_url:
-instagram_url: https://instagram.com/rengibbons
+instagram_url:
 linkedin_url: http://www.linkedin.com/in/ren-gibbons-489890142
 pinterest_url:
 slack_url:
@@ -32,3 +32,28 @@ google_analytics:
 markdown: kramdown
 plugins:
  - jekyll-seo-tag
+
+# Keep as drafts: content is still in the repo but excluded from the built site
+exclude:
+ - cycling.md
+ - hiking.md
+ - running.md
+ - woodworking.md
+ - assets/images/pct
+ - assets/images/rg_hike_1.JPG
+ - assets/images/rg_hike_2.JPG
+ - assets/images/rg_hike_3.jpg
+ - assets/images/rg_run_boston_1.jpg
+ - assets/images/rg_run_boston_2.jpg
+ - assets/images/rg_run_diablo.JPG
+ - assets/images/rg_run_nf.jpg
+ - assets/images/rg_ww1.JPG
+ - assets/images/rg_ww2.JPG
+ - assets/images/rg_ww3.JPG
+ - assets/images/rg_ww4.png
+ - assets/images/rg_ww5.JPG
+ - assets/images/rg_ww8.JPG
+ - assets/images/rg_ww8.png
+ - assets/images/rg_ww9.png
+ - assets/images/rg_ww10.png
+ - assets/images/rg_ww11.png

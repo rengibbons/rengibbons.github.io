@@ -2,8 +2,6 @@
 
 A Jekyll version of the "Editorial" theme by [HTML5 UP](https://html5up.net/).
 
-![Editorial Theme](assets/images/screenshot.jpg "Editorial Theme")
-
 # How to Use
 
 For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
